@@ -8,4 +8,5 @@ setup(
     packages=['pandas_selector',],
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
     long_description=open('README.txt').read(),
+    url="https://github.com/pjankiewicz/PandasSelector"
 )
